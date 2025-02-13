@@ -4,9 +4,11 @@
 </script>
 
 <main>
-	hello world
+
+	<p>home page</p>
+
 </main>
 
 <style>
-	
+
 </style>
