@@ -1,8 +1,8 @@
-<script>
-    let { children } = $props();
 
+<script>
+	let { children } = $props();
 </script>
 
 <div class="alert alert-warning">
-    {@render children()}
+	{@render children()}
 </div>
